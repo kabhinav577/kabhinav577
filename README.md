@@ -3,7 +3,7 @@
 ![image](https://github.com/kabhinav577/kabhinav577/blob/main/Guthub-banner.png?raw=true)
 
 
-- 🔭 I’m currently working on [Airbnb-clone](https://github.com/kabhinav577/Airbnb-clone)
+- 🔭 I’m currently working on [WhatsApp Clone](https://github.com/kabhinav577/react-native-whatsapp)
 
 - 🌱 I’m a **Full Stack Developer**
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **kabhinav577@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1rIpG-dl32aDqa-k4ellWDkLx7DycIrmj/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1qz6UbkHODMumv6yrJV86DupODZcfGoE4/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am funny😝**
 
